@@ -1,0 +1,31 @@
+/*-- alerta geral --------------------------------------------*/
+.alertas {
+	  position: absolute;
+    z-index: 1000;
+    width: 80%;
+    top: 20px;
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  
+  .closebot {
+  margin-left: 15px;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+  }
+  
+  .closebot:hover {
+  color: black;
+  }
+  
+  .sucesso {  background-color: #d4edda; color: #155724; border-color: #d4edda}
+  .atencao {  background-color: #f8d7da; color: #721c24; border-color: #f8d7da}
+  /*------------------------------------------------------------*/

@@ -43,7 +43,7 @@ Ele permite que os funcionários realizem a marcação do ponto eletrônico pelo
 <br/>
 
 ## 📸 Screenshot do Sistema
-![Sistema MarcPonto](https://github.com/user-attachments/assets/91cf1406-1caf-4263-8331-99e8af5fc6d4)
+![Design sem nome](https://github.com/user-attachments/assets/0152020c-95b7-4aab-a9af-f49d0d5ae64a)
 <br/><br/>
 
 ## 🔎 Status do Projeto

@@ -35,7 +35,9 @@ Ele permite que os funcionários realizem a marcação do ponto eletrônico pelo
 - Frontend utilizando HTML, CSS, Javascript
 - Layout responsivo para utilização em Mobile
 - Docker para containerizar a aplicação na AWS facilitando a implantação do sistema
-- Database MySQL em container com Docker utilizando network para comunicação entre containers
+- Container do banco MySQL utilizando Rede para comunicação entre containers e Volume para persistir os dados
+- Compose para facilitar a gestão dos containers
+- Deploy na AWS
 <br/>
 
 ## 📺 Demonstração ao Vivo

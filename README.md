@@ -54,7 +54,7 @@ Ele permite que os funcionários realizem a marcação do ponto eletrônico pelo
 
 ## 👨🏼 Autor - Lucas Queiróz
 <div align="left"> 
-<a  href="https://github.com/lucas-qz" target="_blank"><img align="left" alt="GitHub" height="30" width="30" src="https://img.icons8.com/m_sharp/200/FFFFFF/github.png"> GitHub - Lucas Queiróz </a><br/><br/>
+<a  href="https://github.com/lucas-qz" target="_blank"><img align="left" alt="GitHub" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg"> GitHub - Lucas Queiróz </a><br/><br/>
 <a  href="https://www.linkedin.com/in/lucas-qz/" target="_blank"><img align="left" alt="Linkedin" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"> Linkedin - Lucas Queiróz </a><br/><br/>
 <a  href="http://lucasqz.com.br" target="_blank"><img align="left" alt="Portfólio" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png"> Portfólio - Lucas Queiróz </a><br/><br/>
 </div>
